@@ -1,2 +1,3 @@
 rootProject.name = "Invoid Project"
 include ':app'
+include ':myapplication'
